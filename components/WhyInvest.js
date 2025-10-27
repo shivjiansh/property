@@ -15,7 +15,7 @@ export default function WhyInvest() {
     },
     {
       title: "Premium Construction",
-      desc: "Quadruplex-style 4 BHK with spacious balconies + roof, park & sunrise views, top-quality finishes.",
+      desc: "Quadruplex-style 6 BHK with spacious balconies + roof, park & sunrise views, top-quality finishes.",
     },
     {
       title: "Independent Floor Concept",

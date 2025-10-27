@@ -19,7 +19,7 @@ export default function DistanceCalculator() {
     },
     {
       name: "Jaipuria School",
-      distance: "1.1 km",
+      distance: "0.8 km",
       time: "2 min",
       icon: "M12 14l9-5-9-5-9 5 9 5z M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z",
     },
@@ -31,7 +31,7 @@ export default function DistanceCalculator() {
     },
     {
       name: "Delhi",
-      distance: "9.2 km",
+      distance: "7.2 km",
       time: "15 min",
       icon: "M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z M15 11a3 3 0 11-6 0 3 3 0 016 0z",
     },

@@ -8,7 +8,7 @@ export default function PropertyDetails() {
     "World class amenities",
     "Hospital, School & market available at door steps",
     "Fully furnished East and Park Facing Flat",
-    "1 BHK with Ground + 3 Floor along with spacious Balconies",
+    "6 BHK with Ground + 3 Floor along with spacious Balconies",
     "Perfect view of Greenery, Sunrise and park",
     "Four separate water tanks for individual floors",
     "All floors have separate entries via stairs",
@@ -21,7 +21,7 @@ export default function PropertyDetails() {
   const specs = [
     {
       label: "Property Type",
-      value: "Quadruplex-style 4 BHK home",
+      value: "Quadruplex-style 6 BHK home",
       icon: "M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6",
     },
     {
