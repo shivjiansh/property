@@ -321,11 +321,11 @@ export default function Home() {
       <Head>
         {/* Primary Meta Tags - Optimized */}
         <title>
-          6 BHK House for Sale in Vasundhara Ghaziabad 
+          House for Sale in Vasundhara Ghaziabad 
         </title>
         <meta
           name="title"
-          content="6 BHK Independent House Vasundhara Ghaziabad | Quadruplex ₹2.50Cr | Near AIIMS"
+          content="6 BHK Independent House Vasundhara Ghaziabad"
         />
         <meta
           name="description"
@@ -333,7 +333,7 @@ export default function Home() {
         />
         <meta
           name="keywords"
-          content="6 BHK house Vasundhara, independent house Ghaziabad, Vasundhara property for sale, Awas Vikas approved property Ghaziabad, quadruplex house Ghaziabad, house near AIIMS Ghaziabad, Vasundhara Sector 12 house, Ghaziabad real estate, property Vasundhara, house for sale Vasundhara, 4 bedroom house Ghaziabad, independent villa Vasundhara, Ghaziabad property, IT Properties Ghaziabad, ready to move house Ghaziabad, semi furnished house Vasundhara, gated society Vasundhara, east facing house Ghaziabad, park facing property Vasundhara"
+          content="6 BHK house Vasundhara, independent house Ghaziabad, Vasundhara property for sale, Awas Vikas approved property Ghaziabad, quadruplex house Ghaziabad, house near AIIMS Ghaziabad, Vasundhara Sector 12 house, Ghaziabad real estate, property Vasundhara, house for sale Vasundhara, 4 bedroom house Ghaziabad, independent villa Vasundhara, Ghaziabad property, NCR Properties, ready to move house Ghaziabad, semi furnished house Vasundhara, gated society Vasundhara, east facing house Ghaziabad, park facing property Vasundhara"
         />
 
         {/* Additional SEO Meta Tags */}
