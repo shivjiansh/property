@@ -10,7 +10,7 @@ export default function HeroSection() {
     "East Facing",
     "2600 sq.ft",
     "Tenant Ready",
-    "4 Independent Units",
+    "4 Units",
     "Ready To Move In",
     "Park Facing",
     "Near AIIMS",
@@ -78,7 +78,7 @@ export default function HeroSection() {
 
           {/* Main Heading with Typing Effect */}
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight drop-shadow-2xl px-4">
-            Quadruplex
+            Independent
             <span className="block text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-400 mt-1 sm:mt-2 min-h-[1.2em]">
               {displayText}
               <span className="animate-pulse">|</span>
